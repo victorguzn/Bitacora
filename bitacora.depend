@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649306818 source:c:\users\guvir\onedrive\escritorio\bitacora\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1649358389 source:c:\users\guvir\bitacora\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
